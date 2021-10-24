@@ -1,0 +1,65 @@
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.exe.config
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.exe
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\bin\Debug\stock.pdb
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.Catergory.resources
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.Form1.resources
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.Properties.Resources.resources
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.exe
+c:\users\hina ghafoor\documents\visual studio 2015\Projects\stock\stock\obj\Debug\stock.pdb
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Product.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Faculty.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Supplier.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Issue.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Stock_Managment.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\bin\Debug\itextsharp.dll
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\bin\Debug\itextsharp.xtra.dll
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\bin\Debug\itextsharp.xml
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Stock_Issue.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Stock_Supplier.resources
+C:\Users\Hina Ghafoor\Documents\Visual Studio 2015\Projects\stock\stock\obj\Debug\stock.Add.resources
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\stock.exe.config
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.exe
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.pdb
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\stock.exe
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\stock.pdb
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\itextsharp.dll
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\itextsharp.xtra.dll
+C:\Users\Rabeeya\Desktop\stock\stock\bin\Debug\itextsharp.xml
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Catergory.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Faculty.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Form1.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Properties.Resources.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Stock_Managment.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Items.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.SupplyMan.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Account.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Manager.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.RegistrationPage.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Edit_Faculty.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.Edit_Supplier.resources
+C:\Users\Rabeeya\Desktop\stock\stock\obj\Debug\stock.splashScreen.resources
+E:\Study\stock\stock\bin\Debug\stock.exe.config
+E:\Study\stock\stock\obj\Debug\stock.exe
+E:\Study\stock\stock\obj\Debug\stock.pdb
+E:\Study\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+E:\Study\stock\stock\obj\Debug\stock.Account.resources
+E:\Study\stock\stock\obj\Debug\stock.Catergory.resources
+E:\Study\stock\stock\obj\Debug\stock.Edit_Faculty.resources
+E:\Study\stock\stock\obj\Debug\stock.Edit_Supplier.resources
+E:\Study\stock\stock\obj\Debug\stock.Faculty.resources
+E:\Study\stock\stock\obj\Debug\stock.Form1.resources
+E:\Study\stock\stock\obj\Debug\stock.Items.resources
+E:\Study\stock\stock\obj\Debug\stock.Manager.resources
+E:\Study\stock\stock\obj\Debug\stock.Properties.Resources.resources
+E:\Study\stock\stock\obj\Debug\stock.RegistrationPage.resources
+E:\Study\stock\stock\obj\Debug\stock.Stock_Managment.resources
+E:\Study\stock\stock\obj\Debug\stock.SupplyMan.resources
+E:\Study\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
+R:\6TH SEMESTER\DBMS\stock\stock\obj\Debug\stock.exe
+R:\6TH SEMESTER\DBMS\stock\stock\obj\Debug\stock.pdb
